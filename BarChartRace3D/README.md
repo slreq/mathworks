@@ -1,6 +1,9 @@
 # BarChartRace3D
 2D/3D BarChartRace.
-![3D](./BarCharRace3D.gif)
+## 3D sample output
+![3D](./BarChartRace3D.gif)
+## 2D sample output
+![2D](./BarChartRace2D.gif)
 
 ## Sample and Demo
 Run testBCR3D for a demo. From this folder
