@@ -1,5 +1,6 @@
 # BarChartRace3D
-2D/3D BarChartRace.
+2D/3D BarChartRace. Refresh your brower to see the animation effect of the
+sample gifs below.
 ## 3D sample output
 ![3D](./BarChartRace3D.gif)
 ## 2D sample output
