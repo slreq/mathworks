@@ -1,6 +1,6 @@
 # BarChartRace3D
 2D/3D BarChartRace.
-[3D](BarCharRace3D.gif)
+![3D](BarCharRace3D.gif)
 ## Getting started
 Run testBCR3D for a demo.
 
